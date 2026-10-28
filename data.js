@@ -83,7 +83,7 @@ window.BWC_CATALOG = [
         image: "adire-04.jpg",
         description: "A flowing kaftan with leaf-inspired motifs and a matching headwrap. Lightweight and regal, it’s the perfect blend of comfort and cultural pride.",
         price: 40000,
-        availability: 30
+        availability: 50
       },
       {
         id: "adire-05",
@@ -179,7 +179,7 @@ window.BWC_CATALOG = [
         image: "adire-16.jpg",
         description: "A flowing tie-dye kaftan in bold orange and white, complete with a matching headwrap. A vibrant piece that celebrates tradition with modern flair.",
         price: 50000,
-        availability: 30
+        availability: 50
       },
       {
         id: "adire-17",
@@ -680,7 +680,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-01.jpg",
         description: "A radiant red gown with silver beadwork and sheer embellished sleeves. This luxurious piece is crafted for sophistication and timeless glamour.",
         price: 120000,
-        availability: 100
+        availability: 10
       },
       {
         id: "custom-apparels-02",
@@ -688,7 +688,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-02.jpg",
         description: "A dazzling blue lace blouse with structured sleeves, paired with a navy wrapper and a grand gele. A regal ensemble that embodies cultural pride.",
         price: 95000,
-        availability: 100
+        availability: 10
       },
       {
         id: "custom-apparels-03",
@@ -696,7 +696,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-03.jpg",
         description: "A black beaded corset top with a richly embroidered burgundy wrapper and layered gele. Bold and elegant, perfect for ceremonial occasions.",
         price: 110000,
-        availability: 100
+        availability: 10
       },
       {
         id: "custom-apparels-04",
@@ -704,7 +704,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-04.jpg",
         description: "A richly embroidered purple dress with turquoise and pink floral appliqués, styled with a pink gele and luxury clutch. A statement of elegance and artistry.",
         price: 130000,
-        availability: 100
+        availability: 10
       },
       {
         id: "custom-apparels-05",
@@ -712,7 +712,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-05.jpg",
         description: "A dramatic orange gown with gold sequins, sheer sleeves, and ruffled shoulders. Luxurious and bold, designed for unforgettable entrances.",
         price: 150000,
-        availability: 100
+        availability: 10
       },
       {
         id: "custom-apparels-06",
@@ -720,7 +720,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-06.jpg",
         description: "A richly detailed golden dress with sequins and embroidery, paired with a grand gele and clutch. A timeless piece of cultural luxury.",
         price: 140000,
-        availability: 100
+        availability: 10
       },
       {
         id: "custom-apparels-07",
@@ -728,7 +728,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-07.jpg",
         description: "A fitted corset-style top with sequined wrapper and matching gele. Elegant and modern, this ensemble balances tradition with contemporary flair.",
         price: 90000,
-        availability: 70
+        availability: 30
       },
       {
         id: "custom-apparels-08",
@@ -736,7 +736,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-08.jpg",
         description: "A brown lace blouse with embroidery paired with a floral wrapper and striped gele. A graceful blend of tradition and modern sophistication.",
         price: 85000,
-        availability: 70
+        availability: 50
       },
       {
         id: "custom-apparels-09",
@@ -744,7 +744,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-09.jpg",
         description: "A black and gold beaded corset top with a golden wrapper and grand gele. A luxurious ensemble that celebrates heritage with opulence.",
         price: 135000,
-        availability: 100
+        availability: 10
       },
       {
         id: "custom-apparels-10",
@@ -752,7 +752,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-10.jpg",
         description: "An off-shoulder royal blue gown with sequins, beadwork, and sheer draping. A sophisticated design for elegant evenings and cultural celebrations.",
         price: 125000,
-        availability: 100
+        availability: 10
       },
       {
         id: "custom-apparels-11",
@@ -760,7 +760,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-11.jpg",
         description: "A radiant orange gown adorned with shimmering gold beadwork and sheer embroidered sleeves. This masterpiece exudes luxury and refined craftsmanship, perfect for grand occasions.",
         price: 140000,
-        availability: 100
+        availability: 10
       },
       {
         id: "custom-apparels-12",
@@ -768,7 +768,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-12.jpg",
         description: "A purple lace blouse paired with a matching skirt, styled with a silver gele and beaded clutch. Rich textures and intricate detailing make this ensemble a cultural gem.",
         price: 95000,
-        availability: 70
+        availability: 30
       },
       {
         id: "custom-apparels-13",
@@ -784,7 +784,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-14.jpg",
         description: "A fitted red gown with off-shoulder lace detailing, tassel sleeves, and a matching gele. Sophisticated and bold, this design radiates cultural pride.",
         price: 120000,
-        availability: 100
+        availability: 10
       },
       {
         id: "custom-apparels-15",
@@ -792,7 +792,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-15.jpg",
         description: "A fitted pink dress with puffed sleeves, beadwork, and embroidery, styled with a matching gele. A graceful blend of tradition and artistry.",
         price: 100000,
-        availability: 70
+        availability: 30
       },
       {
         id: "custom-apparels-16",
@@ -800,7 +800,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-16.jpg",
         description: "A purple gown with floral embellishments, pleated bodice, and dramatic fabric accents. Artistic and regal, it’s designed for unforgettable entrances.",
         price: 130000,
-        availability: 100
+        availability: 10
       },
       {
         id: "custom-apparels-17",
@@ -808,7 +808,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-17.jpg",
         description: "A gold and olive lace blouse with beadwork, paired with a layered green gele and coral bead accessories. A timeless ensemble of cultural elegance.",
         price: 140000,
-        availability: 100
+        availability: 10
       },
       {
         id: "custom-apparels-18",
@@ -816,7 +816,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-18.jpg",
         description: "A fitted purple gown with beadwork, puffed sleeves, and a matching gele. Paired with a clutch, this ceremonial attire radiates elegance and pride.",
         price: 125000,
-        availability: 100
+        availability: 10
       },
       {
         id: "custom-apparels-19",
@@ -824,7 +824,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-19.jpg",
         description: "A floor-length green gown with beadwork, structured sleeves, and an off-shoulder neckline. Luxurious and refined, perfect for high-style occasions.",
         price: 150000,
-        availability: 100
+        availability: 10
       },
       {
         id: "custom-apparels-20",
@@ -832,7 +832,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-20.jpg",
         description: "A mustard lace outfit with floral patterns, styled with a golden gele and clutch. Elegant and vibrant, it’s a celebration of cultural craftsmanship.",
         price: 110000,
-        availability: 70
+        availability: 30
       },
       {
         id: "custom-apparels-21",
@@ -840,7 +840,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-21.jpg",
         description: "A fitted lime-green gown with beadwork and silver fringes on the shoulders. Vibrant and dazzling, it’s a bold choice for festive elegance.",
         price: 115000,
-        availability: 70
+        availability: 30
       },
       {
         id: "custom-apparels-22",
@@ -848,7 +848,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-22.jpg",
         description: "A richly textured green gown with velvet bodice, embellished sleeves, and floral appliqué. Paired with a matching gele, it’s a regal statement of luxury.",
         price: 135000,
-        availability: 100
+        availability: 10
       },
       {
         id: "custom-apparels-23",
@@ -856,7 +856,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-23.jpg",
         description: "A fitted gold lace dress with long sleeves, styled with a shiny gele. Elegant and timeless, this outfit celebrates cultural craftsmanship.",
         price: 120000,
-        availability: 70
+        availability: 30
       },
       {
         id: "custom-apparels-24",
@@ -864,7 +864,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-24.jpg",
         description: "A shimmering turquoise and silver gown with beadwork, paired with a metallic gele and matching fan. A glamorous ensemble for grand celebrations.",
         price: 145000,
-        availability: 100
+        availability: 10
       },
       {
         id: "custom-apparels-25",
@@ -872,7 +872,7 @@ window.BWC_CATALOG = [
         image: "custom-apparels-25.jpg",
         description: "A vibrant emerald green lace gown with leaf embroidery, styled with a matching gele and feathered handbag. Perfect for weddings and cultural festivities.",
         price: 150000,
-        availability: 100
+        availability: 10
       }
     ]
   }
