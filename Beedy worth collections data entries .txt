@@ -1,0 +1,609 @@
+
+
+Image name: adire-01.jpg
+Heading: Elegant Blue Marble Maxi
+Description: A flowing masterpiece with a collared neckline, puff sleeves, and a tiered skirt. Its marbled blue-and-white design radiates sophistication, perfect for both casual chic and evening elegance.
+Price tag: ₦45,000
+Difficulty status: 70%
+
+Image name: adire-02.jpg
+Heading: Earth-Tone Royalty Dress
+Description: Rich reddish-brown fabric adorned with bold blue geometric motifs, cinched at the waist with a matching belt. A regal piece that blends tradition with modern flair, ideal for statement occasions.
+Price tag: ₦50,000
+Difficulty status: 70%
+
+Image name: adire-03.jpg
+Heading: Classic Tie-Dye Peplum Gown
+Description: A timeless blue-and-white gown with peplum detailing and a flared skirt. Paired with gold sandals, this design balances cultural artistry with contemporary elegance.
+Price tag: ₦55,000
+Difficulty status: 100%
+
+Image name: adire-04.jpg
+Heading: Green Majesty Kaftan
+Description: A flowing kaftan with leaf-inspired motifs and a matching headwrap. Lightweight and regal, it’s the perfect blend of comfort and cultural pride.
+Price tag: ₦40,000
+Difficulty status: 30%
+
+Image name: adire-05.jpg
+Heading: Chic Peplum Tie-Dye Set
+Description: A fitted top with peplum waist paired with a flared skirt, crafted in striking blue-and-white tie-dye. Accessorized with gold accents, this look is effortlessly stylish.
+Price tag: ₦60,000
+Difficulty status: 100%
+
+Image name: adire-06.jpg
+Heading: Mustard Geometric Jumpsuit
+Description: Bold yet refined, this mustard-yellow jumpsuit features crisp geometric patterns and wide-leg comfort. A modern statement piece for confident fashion lovers.
+Price tag: ₦45,000
+Difficulty status: 50%
+
+Image name: adire-07.jpg
+Heading: Purple Royal Ensemble
+Description: A vibrant tie-dye top with voluminous sleeves paired with striped trousers and a matching headwrap. A cultural showstopper that celebrates heritage with flair.
+Price tag: ₦50,000
+Difficulty status: 70%
+
+Image name: adire-08.jpg
+Heading: Vibrant Floral Elegance
+Description: A halter-neck gown bursting with yellow, red, and green star-like motifs. Flowing fabric and golden accessories make this a radiant choice for glamorous evenings.
+Price tag: ₦65,000
+Difficulty status: 100%
+
+Image name: adire-09.jpg
+Heading: Green Harmony Co-Ord Set
+Description: A relaxed yet stylish two-piece with floral geometric prints, wide-legged pants, and a gathered neckline. Perfect for modern sophistication with cultural roots.
+Price tag: ₦55,000
+Difficulty status: 50%
+
+Image name: adire-10.jpg
+Heading: Plaid & Tie-Dye Fusion
+Description: A daring mix of structured plaid and artistic tie-dye. The cropped shirt and slit skirt combo redefine contemporary African fashion with bold contrasts.
+Price tag: ₦50,000
+Difficulty status: 70%
+
+Image name: adire-11.jpg
+Heading: Radiant Sunset Kaftan
+Description: A vibrant tie-dye gown in fiery shades of red, orange, and blue, detailed with elegant embroidery and a matching headwrap. This piece exudes cultural richness and timeless beauty.
+Price tag: ₦55,000
+Difficulty status: 70%
+
+Image name: adire-12.jpg
+Heading: Bold Crimson Geometry Gown
+Description: Flowing elegance meets striking design in this red-and-white geometric patterned gown. With wide sleeves and a voluminous silhouette, it’s perfect for making a grand entrance.
+Price tag: ₦65,000
+Difficulty status: 100%
+
+Image name: adire-13.jpg
+Heading: Orange Glow Tie-Dye Dress
+Description: A radiant long dress with circular tie-dye motifs, paired with a matching headwrap and chic accessories. This look blends cultural artistry with modern sophistication.
+Price tag: ₦50,000
+Difficulty status: 50%
+
+Image name: adire-14.jpg
+Heading: Corridor Elegance Ensemble
+Description: A flowing orange-and-white tie-dye garment with a matching headscarf, styled with bold accessories. Effortlessly chic, it’s a statement of confidence and tradition.
+Price tag: ₦45,000
+Difficulty status: 30%
+
+Image name: adire-15.jpg
+Heading: Earth-Tone Bohemian Set
+Description: A ruched V-neck top paired with wide-leg pants in earthy tie-dye tones. This ensemble radiates bohemian charm with a touch of cultural artistry.
+Price tag: ₦60,000
+Difficulty status: 70%
+
+Image name: adire-16.jpg
+Heading: Orange Radiance Kaftan
+Description: A flowing tie-dye kaftan in bold orange and white, complete with a matching headwrap. A vibrant piece that celebrates tradition with modern flair.
+Price tag: ₦50,000
+Difficulty status: 30%
+
+Image name: adire-17.jpg
+Heading: Green Harmony Two-Piece
+Description: A coordinated green patterned top and skirt with geometric motifs. Relaxed yet stylish, this outfit is perfect for cultural gatherings and everyday elegance.
+Price tag: ₦45,000
+Difficulty status: 50%
+
+Image name: adire-18.jpg
+Heading: Artistic Fusion Set
+Description: A multi-colored tie-dye ensemble with ruched detailing and flowing pants. Bold, artistic, and dramatic, this look is made for fashion lovers who dare to stand out.
+Price tag: ₦65,000
+Difficulty status: 100%
+
+Image name: adire-19.jpg
+Heading: Cultural Mosaic Kaftan
+Description: A colorful kaftan with abstract motifs in warm tones, layered over sleek black pants. A striking blend of tradition and contemporary artistry.
+Price tag: ₦55,000
+Difficulty status: 70%
+
+Image name: adire-20.jpg
+Heading: Regal Ankara Elegance
+Description: A fitted Ankara dress with a flowing outer robe and crochet cuffs, paired with a matching headwrap. A regal design that embodies grace and cultural pride.
+Price tag: ₦70,000
+Difficulty status: 100%
+
+Image name: adire-21.jpg
+Heading: Midnight Blue Majesty
+Description: A richly patterned blue-and-black ensemble with embroidery and beadwork, complete with a matching headwrap. Sophisticated and timeless, it’s a true showpiece.
+Price tag: ₦75,000
+Difficulty status: 100%
+
+Image name: adire-22.jpg
+Heading: Crimson Royal Flow
+Description: A red-and-white patterned gown with wide sleeves and a fitted waist, accessorized with matching jewelry. A bold and elegant choice for cultural celebrations.
+Price tag: ₦65,000
+Difficulty status: 70%
+
+Image name: adire-23.jpg
+Heading: Blue Blossom Couture Gown
+Description: A dramatic tie-dye gown with ruffled draping and a floral shoulder detail, paired with elegant white accessories. A couture masterpiece for evening glamour.
+Price tag: ₦85,000
+Difficulty status: 100%
+
+Image name: adire-24.jpg
+Heading: Indigo Drama Blouse
+Description: A deep V-neck blouse in striking blue-and-white tie-dye, featuring voluminous sleeves and a fitted silhouette. Modern, bold, and effortlessly stylish.
+Price tag: ₦45,000
+Difficulty status: 50%
+
+Image name: adire-25.jpg
+Heading: Teal Bubble Elegance
+Description: A sculptural teal-and-white tie-dye dress with a bubble skirt and asymmetrical overlay. A creative fusion of tradition and avant-garde fashion.
+Price tag: ₦80,000
+Difficulty status: 100%
+
+
+/////////////////////////////////////////////////////////////
+
+Image name: custom-apparels-01
+Heading: Scarlet Swirl Elegance
+Description: A radiant red gown with silver beadwork and sheer embellished sleeves. This luxurious piece is crafted for sophistication and timeless glamour.
+Price tag: ₦120,000
+Difficulty status: 100%
+
+Image name: custom-apparels-02
+Heading: Royal Blue Lace Majesty
+Description: A dazzling blue lace blouse with structured sleeves, paired with a navy wrapper and a grand gele. A regal ensemble that embodies cultural pride.
+Price tag: ₦95,000
+Difficulty status: 100%
+
+Image name: custom-apparels-03
+Heading: Burgundy Grandeur Set
+Description: A black beaded corset top with a richly embroidered burgundy wrapper and layered gele. Bold and elegant, perfect for ceremonial occasions.
+Price tag: ₦110,000
+Difficulty status: 100%
+
+Image name: custom-apparels-04
+Heading: Purple Floral Royalty
+Description: A richly embroidered purple dress with turquoise and pink floral appliqués, styled with a pink gele and luxury clutch. A statement of elegance and artistry.
+Price tag: ₦130,000
+Difficulty status: 100%
+
+Image name: custom-apparels-05
+Heading: Golden Flame Couture
+Description: A dramatic orange gown with gold sequins, sheer sleeves, and ruffled shoulders. Luxurious and bold, designed for unforgettable entrances.
+Price tag: ₦150,000
+Difficulty status: 100%
+
+Image name: custom-apparels-06
+Heading: Golden Heritage Ensemble
+Description: A richly detailed golden dress with sequins and embroidery, paired with a grand gele and clutch. A timeless piece of cultural luxury.
+Price tag: ₦140,000
+Difficulty status: 100%
+
+Image name: custom-apparels-07
+Heading: Bronze Radiance Outfit
+Description: A fitted corset-style top with sequined wrapper and matching gele. Elegant and modern, this ensemble balances tradition with contemporary flair.
+Price tag: ₦90,000
+Difficulty status: 70%
+
+Image name: custom-apparels-08
+Heading: Brown Lace Elegance
+Description: A brown lace blouse with embroidery paired with a floral wrapper and striped gele. A graceful blend of tradition and modern sophistication.
+Price tag: ₦85,000
+Difficulty status: 70%
+
+Image name: custom-apparels-09
+Heading: Golden Majesty Couture
+Description: A black and gold beaded corset top with a golden wrapper and grand gele. A luxurious ensemble that celebrates heritage with opulence.
+Price tag: ₦135,000
+Difficulty status: 100%
+
+Image name: custom-apparels-10
+Heading: Royal Blue Glamour Gown
+Description: An off-shoulder royal blue gown with sequins, beadwork, and sheer draping. A sophisticated design for elegant evenings and cultural celebrations.
+Price tag: ₦125,000
+Difficulty status: 100%
+
+Image name: custom-apparels-11
+Heading: Golden Ember Elegance
+Description: A radiant orange gown adorned with shimmering gold beadwork and sheer embroidered sleeves. This masterpiece exudes luxury and refined craftsmanship, perfect for grand occasions.
+Price tag: ₦140,000
+Difficulty status: 100%
+
+Image name: custom-apparels-12
+Heading: Purple Lace Royalty
+Description: A purple lace blouse paired with a matching skirt, styled with a silver gele and beaded clutch. Rich textures and intricate detailing make this ensemble a cultural gem.
+Price tag: ₦95,000
+Difficulty status: 70%
+
+Image name: custom-apparels-13
+Heading: Blush Pink Glamour Gown
+Description: A floor-length pink lace gown with floral appliqués, sequins, and a mermaid hem. Elegant from every angle, it’s a showstopper for weddings and formal celebrations.
+Price tag: ₦150,000
+Difficulty status: 100%
+
+Image name: custom-apparels-14
+Heading: Crimson Tassel Elegance
+Description: A fitted red gown with off-shoulder lace detailing, tassel sleeves, and a matching gele. Sophisticated and bold, this design radiates cultural pride.
+Price tag: ₦120,000
+Difficulty status: 100%
+
+Image name: custom-apparels-15
+Heading: Pink Blossom Heritage
+Description: A fitted pink dress with puffed sleeves, beadwork, and embroidery, styled with a matching gele. A graceful blend of tradition and artistry.
+Price tag: ₦100,000
+Difficulty status: 70%
+
+Image name: custom-apparels-16
+Heading: Violet Majesty Couture
+Description: A purple gown with floral embellishments, pleated bodice, and dramatic fabric accents. Artistic and regal, it’s designed for unforgettable entrances.
+Price tag: ₦130,000
+Difficulty status: 100%
+
+Image name: custom-apparels-17
+Heading: Olive Gold Heritage Set
+Description: A gold and olive lace blouse with beadwork, paired with a layered green gele and coral bead accessories. A timeless ensemble of cultural elegance.
+Price tag: ₦140,000
+Difficulty status: 100%
+
+Image name: custom-apparels-18
+Heading: Royal Violet Glamour
+Description: A fitted purple gown with beadwork, puffed sleeves, and a matching gele. Paired with a clutch, this ceremonial attire radiates elegance and pride.
+Price tag: ₦125,000
+Difficulty status: 100%
+
+Image name: custom-apparels-19
+Heading: Emerald Luxe Gown
+Description: A floor-length green gown with beadwork, structured sleeves, and an off-shoulder neckline. Luxurious and refined, perfect for high-style occasions.
+Price tag: ₦150,000
+Difficulty status: 100%
+
+Image name: custom-apparels-20
+Heading: Mustard Gold Radiance
+Description: A mustard lace outfit with floral patterns, styled with a golden gele and clutch. Elegant and vibrant, it’s a celebration of cultural craftsmanship.
+Price tag: ₦110,000
+Difficulty status: 70%
+
+Image name: custom-apparels-21
+Heading: Lime Green Sparkle
+Description: A fitted lime-green gown with beadwork and silver fringes on the shoulders. Vibrant and dazzling, it’s a bold choice for festive elegance.
+Price tag: ₦115,000
+Difficulty status: 70%
+
+Image name: custom-apparels-22
+Heading: Dark Green Velvet Majesty
+Description: A richly textured green gown with velvet bodice, embellished sleeves, and floral appliqué. Paired with a matching gele, it’s a regal statement of luxury.
+Price tag: ₦135,000
+Difficulty status: 100%
+
+Image name: custom-apparels-23
+Heading: Golden Lace Heritage
+Description: A fitted gold lace dress with long sleeves, styled with a shiny gele. Elegant and timeless, this outfit celebrates cultural craftsmanship.
+Price tag: ₦120,000
+Difficulty status: 70%
+
+Image name: custom-apparels-24
+Heading: Turquoise Sparkling Elegance
+Description: A shimmering turquoise and silver gown with beadwork, paired with a metallic gele and matching fan. A glamorous ensemble for grand celebrations.
+Price tag: ₦145,000
+Difficulty status: 100%
+
+Image name: custom-apparels-25
+Heading: Emerald Celebration Couture
+Description: A vibrant emerald green lace gown with leaf embroidery, styled with a matching gele and feathered handbag. Perfect for weddings and cultural festivities.
+Price tag: ₦150,000
+Difficulty status: 100%
+
+/////////////////////////////////////////////////////////////
+
+Image name: Kaftan-gowns-01
+Heading: Royal Sapphire Geometric Kaftan
+Description: Make a bold statement in this striking sapphire blue and gold kaftan. Featuring an intricate geometric print that flows gracefully, this piece offers unmatched comfort and effortless elegance. Perfect for cultural events or sophisticated soirées, complete with a matching headwrap to elevate your look.
+Price tag: ₦85,000
+Difficulty status: 30%
+
+Image name: Kaftan-gowns-02
+Heading: Fuchsia Abstract Statement Maxi
+Description: Turn heads with this vibrant fuchsia and silver abstract print maxi. The structured shoulder detailing and flowing silhouette create a perfect balance of modern chic and timeless allure. Crafted for the woman who isn't afraid to stand out, this dress is a masterpiece for high-fashion moments.
+Price tag: ₦95,000
+Difficulty status: 50%
+
+Image name: Kaftan-gowns-03
+Heading: Burgundy & Emerald Striped Kaftan
+Description: Rich, earthy tones meet contemporary design in this burgundy and emerald striped kaftan. The deep V-neckline and oversized patch pockets add a touch of modern functionality to the luxurious, flowing fabric. A sophisticated choice for the discerning woman seeking comfort without compromising on style.
+Price tag: ₦75,000
+Difficulty status: 40%
+
+Image name: Kaftan-gowns-04
+Heading: Monochrome Aztec One-Shoulder Kaftan
+Description: Exude sophisticated drama in this geometric monochrome kaftan. Featuring a striking one-shoulder silhouette with a contrasting black sash and a daring front slit, this piece beautifully merges traditional prints with modern couture. Ideal for exclusive events where elegance is paramount.
+Price tag: ₦110,000
+Difficulty status: 70%
+
+Image name: Kaftan-gowns-05
+Heading: Golden Teal Brocade Royal Gown
+Description: Step into luxury with this breathtaking gold and teal brocade gown. The structured sleeves and flattering V-neckline, accented by a delicate fringe bodice, create a regal silhouette. This opulent piece is meticulously designed for the mother of the bride or the ultimate VIP guest at any high-end occasion.
+Price tag: ₦150,000
+Difficulty status: 80%
+
+Image name: Kaftan-gowns-06
+Heading: Sunset Wave Belted Maxi Dress
+Description: Radiate warmth in this stunning sunset-orange wave patterned maxi. Featuring a cinched waist with a matching belt and a beautifully flowing skirt, this dress flatters every curve. It's the perfect ensemble for a luxurious resort getaway or an elegant daytime event.
+Price tag: ₦90,000
+Difficulty status: 40%
+
+Image name: Kaftan-gowns-07
+Heading: Bronze Feather Bell-Sleeve Kaftan
+Description: Drape yourself in elegance with this bronze and blue feather-patterned kaftan. The dramatic bell sleeves and front slit add a touch of theatrical glamour to the rich, shimmering fabric. Complete with a matching headwrap, it’s a show-stopping piece for any festive celebration.
+Price tag: ₦120,000
+Difficulty status: 60%
+
+Image name: Kaftan-gowns-08
+Heading: Navy Striped & Checkered Kaftan
+Description: Elevate your everyday luxury with this navy and white striped kaftan. Featuring a collared neckline and bold black geometric accents, this piece offers a relaxed yet polished look. Perfect for effortless day-to-night styling, blending ultimate comfort with chic modern design.
+Price tag: ₦65,000
+Difficulty status: 30%
+
+Image name: Kaftan-gowns-09
+Heading: Rose & Emerald Color-Block Kaftan
+Description: Make a breathtaking entrance in this dusty rose and emerald color-block kaftan. The striking zigzag waistline is delicately accentuated with sparkling beadwork, flowing into a richly textured green skirt. It's a masterful blend of traditional elegance and contemporary color-blocking.
+Price tag: ₦105,000
+Difficulty status: 70%
+
+Image name: Kaftan-gowns-10
+Heading: Shimmering Bronze Lace-Detail Kaftan
+Description: Dazzle in this shimmering bronze and blue kaftan, designed for the spotlight. It features a vibrant blue lace V-neckline and a dramatic gathered side detail cascading into a delicate lace train. This opulent ensemble is the epitome of glamorous evening wear.
+Price tag: ₦135,000
+Difficulty status: 65%
+
+Image name: Kaftan-gowns-11
+Heading: Olive Satin Asymmetrical Cape Gown
+Description: Drape yourself in luxury with this sophisticated olive green gown. Featuring a lustrous satin asymmetrical cape overlay that flows beautifully over a contrasting patterned skirt, this piece is the epitome of modern elegance. Perfect for high-society events and elegant evening dinners.
+Price tag: ₦115,000
+Difficulty status: 60%
+
+Image name: Kaftan-gowns-12
+Heading: Forest Green Button-Down Kaftan
+Description: Embrace minimalist chic with this stunning forest green kaftan. The clean, flowing silhouette is beautifully contrasted by a tailored button-down front placket and a sharp V-neckline. Complete with a matching headwrap, it offers modest sophistication for the discerning woman.
+Price tag: ₦80,000
+Difficulty status: 30%
+
+Image name: Kaftan-gowns-13
+Heading: Sunset Abstract Lace-Yoke Kaftan
+Description: Radiate vibrant energy in this striking red and yellow abstract print kaftan. The breezy, relaxed fit is elevated by a beautifully intricate white lace yoke that frames the neckline. It is the perfect statement piece for a luxurious resort getaway or a stylish daytime outing.
+Price tag: ₦75,000
+Difficulty status: 40%
+
+Image name: Kaftan-gowns-14
+Heading: Ivory Color-Block Stripe Maxi
+Description: Redefine modern elegance with this ivory textured maxi dress. Featuring a bold, multi-colored horizontal stripe panel near the hem, this minimalist piece offers a stunning architectural silhouette. Breathable, comfortable, and effortlessly chic for the contemporary woman.
+Price tag: ₦90,000
+Difficulty status: 50%
+
+Image name: Kaftan-gowns-15
+Heading: Sunburst Tie-Dye Embroidered Kaftan
+Description: Brighten up any room in this vibrant yellow and white tie-dye kaftan. It features a beautifully detailed central embroidered motif and a playful tassel detail, perfectly complemented by a matching headwrap. A joyful, culturally rich piece ideal for festive celebrations.
+Price tag: ₦85,000
+Difficulty status: 40%
+
+Image name: Kaftan-gowns-16
+Heading: Earthy Geometric Panel Kaftan
+Description: Celebrate rich heritage with this brown and white geometric print kaftan. The striking solid brown V-neck yoke adds a modern, structured contrast to the flowing, culturally inspired fabric. Complete with a side slit and matching headwrap for a flawless, elegant look.
+Price tag: ₦80,000
+Difficulty status: 30%
+
+Image name: Kaftan-gowns-17
+Heading: Midnight Dotted Stripe Kaftan
+Description: Sophistication meets ultimate comfort in this classic black kaftan. Featuring elegant vertical stripes crafted from delicate white dots, this piece offers a universally flattering V-neckline and a flowing silhouette. A versatile staple that transitions effortlessly from day to night.
+Price tag: ₦85,000
+Difficulty status: 30%
+
+Image name: Kaftan-gowns-18
+Heading: Golden Ankara Geometric Mix Gown
+Description: Make a breathtaking statement in this vibrant Ankara-inspired gown. The golden yellow bodice, featuring bold green motifs, seamlessly transitions into a rich, dark green geometric skirt. With its tailored collar and short sleeves, it’s a masterclass in print mixing and modern African fashion.
+Price tag: ₦95,000
+Difficulty status: 60%
+
+Image name: Kaftan-gowns-19
+Heading: Regal Gold Brocade Structured Gown
+Description: Command attention in this majestic gold and white brocade gown. The structured shoulders and elegant button-down front exude power and luxury, while the matching gold headwrap completes the regal look. The ultimate statement piece for high-profile events and weddings.
+Price tag: ₦140,000
+Difficulty status: 70%
+
+Image name: Kaftan-gowns-20
+Heading: Lemon Abstract Gold-Trimmed Kaftan
+Description: Brighten your wardrobe with this cheerful lemon and white abstract print kaftan. Delicate gold trim meticulously outlines the neckline, front seam, and pockets, adding a touch of opulent detailing to a relaxed silhouette. A refreshing and elegant choice for any daytime occasion.
+Price tag: ₦95,000
+Difficulty status: 50%
+
+Image name: Kaftan-gowns-21
+Heading: Hot Pink Patterned Flare Gown
+Description: Step out in vibrant confidence with this hot pink statement gown. The dramatic, sweeping sleeves and hem are beautifully contrasted with a delicate circular pattern, while the off-shoulder design adds a touch of modern romance. This look is completed with a stunning, sculptural matching headpiece.
+Price tag: ₦110,000
+Difficulty status: 60%
+
+Image name: Kaftan-gowns-22
+Heading: Amethyst Textured Jacquard Gown
+Description: Exude pure royalty in this stunning amethyst purple jacquard gown. The rich, textured fabric catches the light beautifully, while the gathered silhouette and wide sleeves offer a flattering, luxurious fit. Complete with a matching headwrap, it's an opulent choice for special occasions.
+Price tag: ₦125,000
+Difficulty status: 50%
+
+Image name: Kaftan-gowns-23
+Heading: Tribal Print Button-Front Kaftan
+Description: A harmonious blend of tribal aesthetics and modern tailoring. This brown and white patterned kaftan features a striking beige placket detailed with rustic buttons, offering a chic, structured look. The matching headwrap and elegant side slit make it perfect for the modern bohemian.
+Price tag: ₦80,000
+Difficulty status: 40%
+
+Image name: Kaftan-gowns-24
+Heading: Mocha Geometric Off-Shoulder Maxi
+Description: Effortless elegance meets bold geometry. This mocha-toned maxi features a chic off-shoulder neckline and dramatic, flowing sleeves, perfect for creating a striking silhouette. The subtle geometric print adds a layer of modern sophistication, making it a versatile wardrobe essential.
+Price tag: ₦90,000
+Difficulty status: 40%
+
+Image name: Kaftan-gowns-25
+Heading: Blush & Turquoise Ombre Print Gown
+Description: A breathtaking fusion of color and artistic print. This gown features a soft blush pink bodice that transitions into a vibrant turquoise patterned yoke and wide sleeves, with matching detailing at the hem. It is a true wearable work of art for the woman who loves to stand out.
+Price tag: ₦120,000
+Difficulty status: 60%
+
+/////////////////////////////////////////////////////////////
+
+
+Image name: iro-buba-01
+Heading: Crimson & Sapphire Velvet Iro-Buba
+Description: Command presence in this luxurious red velvet buba paired with a striking blue and red striped iro. The dramatic, statement gele and matching shoulder sash elevate this traditional ensemble to high-fashion royalty. Perfect for weddings and prestigious cultural events.
+Price tag: ₦150,000
+Difficulty status: 70%
+
+Image name: iro-buba-02
+Heading: Floral Peplum Ankara & Lace Set
+Description: A beautiful blend of structured Ankara and delicate lace. This fitted peplum buba flatters the waist, while the flowing purple lace sash adds an elegant, feminine touch. Complete with a matching gele for a sophisticated, highly tailored look.
+Price tag: ₦95,000
+Difficulty status: 60%
+
+Image name: iro-buba-03
+Heading: Indigo Adire Classic Iro-Buba
+Description: Celebrate rich heritage with this stunning indigo adire iro-buba set. The relaxed fit and fringed shoulder sash offer a chic, comfortable silhouette, beautifully complemented by a towering matching gele. A timeless piece for cultural celebrations.
+Price tag: ₦75,000
+Difficulty status: 30%
+
+Image name: iro-buba-04
+Heading: Navy Geometric Wrap Iro-Buba
+Description: Effortless elegance defines this navy patterned iro-buba. Featuring a flattering wrap-style bodice and wide sleeves, this piece moves beautifully with every step. Paired with a classic gele, it's an ideal choice for stylish daytime events.
+Price tag: ₦85,000
+Difficulty status: 40%
+
+Image name: iro-buba-05
+Heading: Royal Burgundy Aso-Oke Set
+Description: Exude regal elegance in this meticulously woven burgundy and gold aso-oke ensemble. The structured buba and statement shoulder sash provide a majestic silhouette, making it the ultimate choice for traditional weddings and milestone celebrations.
+Price tag: ₦160,000
+Difficulty status: 70%
+
+Image name: iro-buba-06
+Heading: Azure Flared-Sleeve Statement Set
+Description: Modern artistry meets traditional silhouettes. This powder blue set features striking printed flared sleeves that command attention, cinched at the waist for a flawless fit. A bold, contemporary take on the classic iro-buba.
+Price tag: ₦110,000
+Difficulty status: 60%
+
+Image name: iro-buba-07
+Heading: Cobalt Botanical Longline Set
+Description: Striking cobalt blue botanical prints bring this elegant iro-buba to life. The long, fitted sleeves and floor-sweeping skirt offer a modest yet incredibly chic look, finished perfectly with a matching headwrap. A versatile staple for any wardrobe.
+Price tag: ₦90,000
+Difficulty status: 40%
+
+Image name: iro-buba-08
+Heading: Burnt Orange & Chocolate Stripe Set
+Description: A vibrant and warm combination of burnt orange eyelet lace and rich chocolate striped fabric. The matching gele and draped shoulder sash create a polished, culturally rich ensemble. Perfect for making a vibrant statement at any occasion.
+Price tag: ₦120,000
+Difficulty status: 50%
+
+Image name: iro-buba-09
+Heading: Vibrant Coral Striped Mini Set
+Description: A youthful and bold twist on tradition. This mini-length iro-buba features striking coral and black stripes, styled with layers of traditional coral beads and a dramatic gele. A fierce, standout choice for vibrant celebrations.
+Price tag: ₦85,000
+Difficulty status: 40%
+
+Image name: iro-buba-10
+Heading: Indigo Tie-Dye Fitted Midi Set
+Description: Showcasing the beauty of traditional adire, this navy and white set features a flattering square neckline and a fitted midi skirt. Complete with a matching gele and statement accessories, it’s a sophisticated take on a classic textile.
+Price tag: ₦80,000
+Difficulty status: 30%
+
+Image name: iro-buba-11
+Heading: Radiant Orange Beaded Corset Set
+Description: A breathtaking fusion of modern bridal elegance and traditional flair. This ensemble features a heavily beaded white corset top with sheer lace sleeves, beautifully paired with a vibrant orange and black star-patterned wrapper. The striking red gele adds a bold, celebratory finish.
+Price tag: ₦145,000
+Difficulty status: 80%
+
+Image name: iro-buba-12
+Heading: Midnight Polka Dot Adire Set
+Description: Effortless sophistication meets playful charm. This dark, polka-dot patterned buba and iro set offers a relaxed yet tailored fit, beautifully complemented by a classic black headwrap. It's a versatile, chic choice for any elegant daytime or evening occasion.
+Price tag: ₦85,000
+Difficulty status: 40%
+
+Image name: iro-buba-13
+Heading: Kaleidoscope Multi-Stripe Aso-Oke
+Description: Celebrate in a burst of color with this stunning multi-striped ensemble. The beautifully tailored buba and fitted iro are perfectly matched with a dramatic shoulder sash and towering gele. A vibrant masterpiece designed to make you the center of attention at any owambe.
+Price tag: ₦120,000
+Difficulty status: 60%
+
+Image name: iro-buba-14
+Heading: Burgundy Fringe & Sunset Stripe Set
+Description: A textural delight for the modern traditional woman. This deep burgundy fringe buba is elegantly paired with a warm-toned striped iro. Styled with a striking gold gele and a matching drape, it exudes a rich, sophisticated charm perfect for high-profile events.
+Price tag: ₦125,000
+Difficulty status: 50%
+
+Image name: iro-buba-15
+Heading: Vibrant Paisley Mini Iro-Buba
+Description: Fierce, youthful, and utterly captivating. This short iro-buba features a bold pink and blue paisley-inspired print, tailored into a flattering fitted top and a chic mini wrap skirt with a dramatic side drape. Complete with a matching statement gele, it's a show-stopping look.
+Price tag: ₦100,000
+Difficulty status: 60%
+
+Image name: iro-buba-16
+Heading: Cobalt Stripe Mini Set
+Description: Sleek and contemporary, this royal blue ensemble redefines traditional fashion. The solid blue buba top contrasts beautifully with the textured, lighter blue striped mini iro. Finished with a matching gele and sash, it's an effortlessly polished choice.
+Price tag: ₦90,000
+Difficulty status: 40%
+
+Image name: iro-buba-17
+Heading: Sky Blue Floral Adire Set
+Description: Breathe fresh air into your wardrobe with this stunning light blue floral ensemble. Featuring a gracefully draped sash and wide sleeves, the hand-painted aesthetic of the fabric gives it a unique, artistic flair. Perfect for elegant daytime celebrations.
+Price tag: ₦85,000
+Difficulty status: 30%
+
+Image name: iro-buba-18
+Heading: Emerald & Gold Royal Aso-Oke
+Description: Exude pure royalty in this majestic emerald green and gold Aso-Oke set. The impeccably tailored buba and iro, paired with a sweeping shoulder sash and a magnificent gele, create a silhouette of power and grace. The ultimate statement piece for the mother of the bride.
+Price tag: ₦160,000
+Difficulty status: 70%
+
+Image name: iro-buba-19
+Heading: Indigo Geometric Adire Set
+Description: A celebration of rich cultural heritage. This deep indigo Adire set features intricate geometric grid patterns, tailored into a flattering bell-sleeve buba and a fitted midi iro. The matching headwrap completes this sophisticated, timeless look.
+Price tag: ₦80,000
+Difficulty status: 40%
+
+Image name: iro-buba-20
+Heading: Midnight Metallic Stripe Set
+Description: Modern glamour meets traditional silhouette. This striking black set features shimmering silver metallic diagonal stripes that catch the light beautifully. With its flowing bell sleeves and fitted iro, it’s a sophisticated choice for evening events.
+Price tag: ₦105,000
+Difficulty status: 50%
+
+Image name: iro-buba-21
+Heading: Rustic Earth-Tone Wrap Set
+Description: Effortless, earthy, and incredibly chic. This rust-colored buba features a subtle dotted pattern and a relaxed fit, paired with a beautifully wrapped iro that ties at the waist. It’s a comfortable, stylish staple for any culturally inspired wardrobe.
+Price tag: ₦75,000
+Difficulty status: 30%
+
+Image name: iro-buba-22
+Heading: Crisp White & Mint Stripe Mini
+Description: A refreshing and youthful take on the classic iro-buba. This set pairs a textured white buba top with a vibrant green and white striped mini iro. Finished with a matching green headwrap, it’s a playful, standout look for daytime festivities.
+Price tag: ₦85,000
+Difficulty status: 40%
+
+Image name: iro-buba-23
+Heading: Sunshine Eyelet Ankara Set
+Description: A vibrant explosion of color and texture. This stunning Ankara set features intricate yellow eyelet lace detailing on the dramatic sleeves and hem, perfectly framing the rich floral print. Complete with a matching gele, it's a joyful masterpiece for any celebration.
+Price tag: ₦120,000
+Difficulty status: 70%
+
+Image name: iro-buba-24
+Heading: Majestic Cobalt & Silver Sash Set
+Description: Timeless elegance at its finest. This solid royal blue buba and iro set is elevated by a striking, wide shoulder sash featuring a bold silver metallic stripe. Styled with a large matching gele and traditional coral beads, it is the epitome of regal beauty.
+Price tag: ₦130,000
+Difficulty status: 50%
+
+Image name: iro-buba-25
+Heading: Ruby Textured & Monochrome Stripe Set
+Description: Make a striking statement in this beautiful two-tone iro-buba ensemble. The vibrant ruby-red textured buba with delicate eyelet detailing contrasts flawlessly with the bold black and white striped iro and shoulder sash. Complete with a towering, perfectly tied matching gele, this look effortlessly blends rich cultural heritage with modern sophistication.
+Price tag: ₦115,000
+Difficulty status: 50%

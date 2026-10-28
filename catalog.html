@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Catalog | Beedy Worth Collections</title>
+  <meta name="description" content="Browse African fashion for women by Beedy Worth Collections: Adire, Iro &amp; Buba, Kaftan Gowns and Custom Apparels.">
+  <meta name="theme-color" content="#141a3c">
+
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="icon" href="favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="favicon.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700;9..144,800&family=Hanken+Grotesk:wght@400;500;600;700;800&display=swap">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#grid">Skip to the styles</a>
+
+  <header class="site-header on-dark" id="site-header">
+    <div class="header-bar">
+      <!-- Logo (top-left). Replace logo.png with your brand logo. -->
+      <a class="brand" href="index.html" aria-label="Beedy Worth Collections, back to the start page">
+        <img class="brand-logo" src="logo.png" alt="Beedy Worth Collections logo" width="48" height="48">
+        <span class="brand-name">Beedy Worth Collections</span>
+      </a>
+
+      <div class="nav-wrap" id="nav-wrap">
+        <nav class="cat-nav" id="cat-nav" aria-label="Catalog sections">
+          <a href="#adire" data-cat="adire">Adire</a>
+          <a href="#iro-buba" data-cat="iro-buba">Iro &amp; Buba</a>
+          <a href="#kaftan-gowns" data-cat="kaftan-gowns">Kaftan Gowns</a>
+          <a href="#custom-apparels" data-cat="custom-apparels">Custom Apparels</a>
+        </nav>
+      </div>
+
+      <a class="about-link" href="about.html">About Us</a>
+    </div>
+    <div class="weave" aria-hidden="true"></div>
+  </header>
+
+  <main id="main">
+    <section class="cat-hero on-dark" aria-labelledby="cat-title">
+      <div class="wrap">
+        <h1 id="cat-title">Adire</h1>
+        <p class="intro" id="cat-intro"></p>
+        <p class="note"><span class="count" id="cat-count">25</span> styles in this section. Select a style to see its details. Prices shown are starting bids, and orders are placed through WhatsApp.</p>
+      </div>
+    </section>
+
+    <section class="catalog" aria-label="Styles">
+      <div class="grid" id="grid"></div>
+      <noscript><p class="noscript-msg">The catalog needs JavaScript to show its styles. Please turn JavaScript on in your browser, or contact us on WhatsApp at +234 810 193 1989.</p></noscript>
+    </section>
+  </main>
+
+  <!-- STYLE POP-UP -->
+  <div class="modal on-modal" id="modal" aria-hidden="true" inert>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-panel" id="modal-panel" role="dialog" aria-modal="true" aria-labelledby="m-title">
+      <button class="modal-close" type="button" aria-label="Close style details" data-close id="m-close">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+
+      <div class="modal-media" id="m-media">
+        <div class="modal-media-bg" id="m-media-bg" aria-hidden="true"></div>
+        <img id="m-img" alt="" width="640" height="800" decoding="async">
+      </div>
+
+      <div class="modal-scroll" id="m-scroll">
+        <div class="modal-body">
+          <p class="modal-cat" id="m-cat"></p>
+          <h3 class="modal-title" id="m-title"></h3>
+          <p class="modal-desc" id="m-desc"></p>
+
+          <section class="modal-section" aria-labelledby="m-price-h">
+            <h4 id="m-price-h">Starting bid price</h4>
+            <div class="price-row">
+              <strong class="price-amount" id="m-price" aria-live="polite"></strong>
+              <div class="cur-switch" role="group" aria-label="Choose display currency" id="m-cur">
+                <button type="button" data-cur="NGN" aria-pressed="true">&#8358; NGN</button>
+                <button type="button" data-cur="USD" 7aria-pressed="false">$ USD</button>
+                <button type="button" data-cur="EUR" aria-pressed="false">&euro; EUR</button>
+                <button type="button" data-cur="GBP" aria-pressed="false">&pound; GBP</button>
+              </div>
+            </div>
+            <p class="rate-note" id="m-rate"></p>
+            <p class="price-note">This is the starting bid price, not a fixed final price. Our designs cannot be bought or ordered on this website. To buy, contact us on WhatsApp using the numbers below, and we will agree the final price with you before production begins.</p>
+          </section>
+
+          <section class="modal-section" aria-labelledby="m-contact-h">
+            <h4 id="m-contact-h">Order through WhatsApp or call</h4>
+            <div class="contact-list" id="m-contacts"></div>
+          </section>
+
+          <section class="modal-section" aria-labelledby="m-prod-h">
+            <h4 id="m-prod-h">Estimated production timeline</h4>
+            <div class="prod-bar" id="m-bar" role="img"></div>
+            <div class="prod-meta">
+              <strong id="m-av"></strong>
+              <span id="m-time"></span>
+            </div>
+            <p class="prod-note">Counted in working days, not calendar days. The exact schedule also depends on confirming your design details and on fabric availability.</p>
+          </section>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CONTACT (shown under every catalog section) -->
+  <section class="contact on-dark" id="contact" aria-labelledby="contact-title">
+    <div class="wrap">
+      <h2 id="contact-title">Contact Us</h2>
+      <p class="lead">Message us for more information and order details. Tell us the style you like and we will guide you through the next steps.</p>
+
+      <ul class="socials">
+        <li><a href="https://www.instagram.com/beedywortcollections?vrfl=dzQza2E3bm9taHBq" target="_blank" rel="noopener noreferrer">
+          <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2.5" y="2.5" width="19" height="19" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.4" cy="6.6" r=".6" fill="currentColor"/></svg></span>Instagram</a></li>
+        <li><a href="https://www.facebook.com/bridget.otu.1?mibextid=rS40aB7S9Ucbxw6v" target="_blank" rel="noopener noreferrer">
+          <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></span>Facebook</a></li>
+        <li><a href="https://wa.me/2348101931989" target="_blank" rel="noopener noreferrer">
+          <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 11.5a8.4 8.4 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.4 8.4 0 0 1-3.8-.9L3 21l1.9-5.7a8.4 8.4 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.4 8.4 0 0 1 3.8-.9h.5a8.5 8.5 0 0 1 8 8z"/><path d="M9.2 8.6c0 3.3 2.9 6.2 6.2 6.2l.9-1.2-1.8-.9-.8.7c-.8-.4-1.8-1.3-2.2-2.2l.7-.8-.9-1.8z" fill="currentColor" stroke="none"/></svg></span>WhatsApp</a></li>
+        <li><a href="https://pin.it/5hlYBNLA6" target="_blank" rel="noopener noreferrer">
+          <span class="ico"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12.02 2C6.5 2 3 5.7 3 9.8c0 2.4 1.3 4.4 3.2 5.1.3.1.5 0 .6-.3l.3-1.1c.1-.3 0-.4-.2-.7-.6-.7-.9-1.6-.9-2.8 0-3 2.2-5.6 5.9-5.6 3.2 0 5 1.9 5 4.5 0 3.4-1.5 6.2-3.7 6.2-1.2 0-2.1-1-1.8-2.3.3-1.5 1-3.1 1-4.2 0-1-.5-1.800-1.600-1.800-1.300 0-2.300 1.300-2.300 3.100 0 1.100.4 1.900.4 1.900l-1.500 6.400c-.4 1.800-.1 4 0 4.200 0 .1.200.2.300.100.1-.1 1.700-2.100 2.200-4l.9-3.400c.4.800 1.700 1.500 3 1.500 4 0 6.700-3.700 6.700-8.600C21 5.500 17.700 2 12.020 2z"/></svg></span>Pinterest</a></li>
+        <li><a href="mailto:bridgetotu8@gmail.com">
+          <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><path d="m22 6-10 7L2 6"/></svg></span>Gmail</a></li>
+      </ul>
+
+      <p class="contact-lines">
+        WhatsApp: <a href="https://wa.me/2348101931989" target="_blank" rel="noopener noreferrer">+234 810 193 1989</a> or <a href="https://wa.me/2348023985993" target="_blank" rel="noopener noreferrer">+234 802 398 5993</a><br>
+        Call: <a href="tel:+2348101931989">+234 810 193 1989</a><br>
+        Email: <a href="mailto:bridgetotu8@gmail.com">bridgetotu8@gmail.com</a>
+      </p>
+
+      <div class="cta">
+        <a class="btn btn-about" href="about.html">About Us</a>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>&copy; <span data-year>2026</span> Beedy Worth Collections. All rights reserved.</p>
+      <p>Website by Ethel-devs. <a href="https://ethel-devs-portfolio-new.vercel.app/" target="_blank" rel="noopener noreferrer">Check out my portfolio</a></p>
+    </div>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="common.js"></script>
+  <script src="catalog.js"></script>
+</body>
+</html>
